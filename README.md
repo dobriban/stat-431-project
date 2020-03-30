@@ -29,8 +29,9 @@ For each (and many more aspects) there is an extensive body of scientific work b
 1. what is the goal of the study?
 2. what type of data do they use? is it observational, experimental (refer to the sections where we studied this)
 3. what type of statistical tools do they use?
- * 3b. how do they visualize the data? do they use histograms, boxplots, etc? is it compelling?
- * 3c. what kind of statistical methods do they use? e.g., data summarization (mean/median, standard deviation), hypothesis testing, confidence intervals, p-values,  regression analysis,
+ * 3a. how do they visualize the data? do they use histograms, boxplots, etc? is it compelling?
+ * 3b. what kind of statistical methods do they use? e.g., data summarization (mean/median, standard deviation), hypothesis testing, confidence intervals, p-values,  regression analysis,
+ * 3c. if possible, go in some detail about one or two examples. e.g., what was the quantity estimated? how did they set up the model? how did they estimate? 
 4. what do they conclude? how does the data support the conclusions? 
 5. what are your overall impressions? what were the strong points, what were the limitations, what could be improved? 
 
