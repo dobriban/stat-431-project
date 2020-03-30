@@ -50,6 +50,8 @@ Here are a few relevant references:
 
 * A.S. Fauci et al., [Covid-19 — Navigating the Uncharted, N Engl J Med 2020; 382:1268-126](https://www.nejm.org/doi/full/10.1056/NEJMe2002387). An overview of some basic facts and work. Has pointers to work that is suitable to summarize in the project.
 
+* Q. Li et al., [Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus–Infected Pneumonia
+, N Engl J Med 2020; 382:1199-1207](https://www.nejm.org/doi/full/10.1056/NEJMoa2001316). An epidemiological study structured in a direct & easy to read way. Good choice for a summary.
 
 
 
