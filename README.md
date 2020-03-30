@@ -36,6 +36,8 @@ For each (and many more aspects) there is an extensive body of scientific work b
 
 I anticipate that 3c may be challenging for many papers, because they may use advanced statistical methods that we have not covered in the class. I have a few comments and suggestions: first, the goal is not to understand in 100% detail the subtleties of the technique, but rather to appreciate how the methods are used. The goal is to understand the methods as well as you can, based on the training in the class, and based on your independent research. You are expected to look up relevant methods that appear in the work on the internet and spend some time understanding them. This will also be a valuable experience - no matter how many statistics classes you take, in your work you will always encounter new methods, and you need to be prepared to learn about them on the spot.
 
+Your report should be about 5 pages double-spaced, standard font size and standard formatting (standard margin). You can work in groups of at most two. You should turn in your project on Canvas (there will be an Assignment created for this), by 5pm EST on May 5th 2020 (this was the date of the original final exam). 
+
 Here are a few relevant references: 
 
 
