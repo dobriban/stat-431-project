@@ -8,9 +8,9 @@ This is the description of the final project for Stat 431, Spring 2020, at the U
  
  
  ## Epidemiological aspects:
-  - estimating the reproductive number of the virus
-  - estimating the mortality rate for various groups
-  - estimating the effectiveness of interventions like masks, social distancing in reducing the spread
+  - estimating the reproductive number of the virus & other aspects (e.g., mean interval between infection and symptoms)
+  - estimating the mortality rate for various groups (e.g., first understand the demographics of the cases, then understand possible sampling biases)
+  - estimating the effectiveness of interventions like masks, travel bans, and social distancing in reducing the spread
  
  ## Medical aspects:
   - estimating the need for various medical resources (beds, masks)
@@ -27,7 +27,7 @@ Other aspects: feel free to choose other aspects if you are interested.
 For each (and many more aspects) there is an extensive body of scientific work being done. You only need to read one paper, and to your best ability, summarize the statistical aspects. Here are a few questions you should answer:
 
 1. what is the goal of the study?
-2. what type of data do they use? is it observational, experimental (refer to the sections where we studied this)
+2. what type of data do they use? is it observational, experimental (refer to the sections where we studied this)? are there any possible biases in the data?
 3. what type of statistical tools do they use?
  * 3a. how do they visualize the data? do they use histograms, boxplots, etc? is it compelling?
  * 3b. what kind of statistical methods do they use? e.g., data summarization (mean/median, standard deviation), hypothesis testing, confidence intervals, p-values,  regression analysis,
@@ -37,6 +37,9 @@ For each (and many more aspects) there is an extensive body of scientific work b
 
 I anticipate that 3c may be challenging for many papers, because they may use advanced statistical methods that we have not covered in the class. I have a few comments and suggestions: first, the goal is not to understand in 100% detail the subtleties of the technique, but rather to appreciate how the methods are used. The goal is to understand the methods as well as you can, based on the training in the class, and based on your independent research. You are expected to look up relevant methods that appear in the work on the internet and spend some time understanding them. This will also be a valuable experience - no matter how many statistics classes you take, in your work you will always encounter new methods, and you need to be prepared to learn about them on the spot.
 
+Also I anticipate that some aspects may require you to do some indepenent reading. For instance, if you talk about estimating the basic reproduction number <img src="https://render.githubusercontent.com/render/math?math=R_0">
+, then you first need to understand what that is, and what models are used to estimate it. 
+
 Your report should be about 5 pages double-spaced, standard font size and standard formatting (standard margin). You can work in groups of at most two. You should turn in your project on Canvas (there will be an Assignment created for this), by 5pm EST on May 5th 2020 (this was the date of the original final exam). 
 
 The University of Pennsylvania's Code of Academic Integrity applies: https://catalog.upenn.edu/pennbook/code-of-academic-integrity/. Please add the phrase "This paper represents my own work in accordance with the Code of Academic Integrity" to your paper and sign below.
@@ -44,6 +47,9 @@ The University of Pennsylvania's Code of Academic Integrity applies: https://cat
 ## References:
 
 Here are a few relevant references: 
+
+* A.S. Fauci et al., [Covid-19 — Navigating the Uncharted, N Engl J Med 2020; 382:1268-126](https://www.nejm.org/doi/full/10.1056/NEJMe2002387). An overview of some basic facts and work. Has pointers to work that is suitable to summarize in the project.
+
 
 
 
