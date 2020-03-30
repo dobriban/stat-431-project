@@ -2,9 +2,9 @@
  
 This is the description of the final project for Stat 431, Spring 2020, at the University of Pennsylvania.
  
- The ongoing Covid-19 pandemic has cut the academic year off and affected each of our lives. Given its urgency, a lot of work is being done to mitigate its effects. Some of that work, and some decisions being made, is informed by statistics. Given this, in this project you will aim to understand some aspect of how statistics is used to learn about Covid-19. As the instructor, I think this is im
+ The ongoing Covid-19 pandemic has cut the academic year off and affected each of our lives. Given its urgency, a lot of work is being done to mitigate its effects. Some of that work, and some decisions being made, is informed by statistics. Given this, in this project you will aim to understand some aspect of how statistics is used to learn about Covid-19. As the instructor, I think this is important for you to appreciate that statistical thinking is crucial, even in this time of crisis.
  
- You will read a paper that addresses any aspect of the epidemic, and write a short summary/report/essay on how statistics is being used. There are many aspects of Covid-19 that use statistics, and you are free to choose what interests you most:
+ You will read a paper that addresses any aspect of the pandemic, and write a short summary/report/essay on how statistics is being used. There are many aspects of Covid-19 that use statistics, and you are free to choose what interests you most:
  
  
  ## Epidemiological aspects:
