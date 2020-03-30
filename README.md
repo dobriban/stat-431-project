@@ -8,7 +8,7 @@ This is the description of the final project for Stat 431, Spring 2020, at the U
  
  
  ## Epidemiological aspects:
-  - estimating the reproductive number of the virus & other aspects (e.g., mean interval between infection and symptoms)
+  - estimating the reproductive number of the virus & other aspects (e.g., mean interval between infection and symptoms/incubation period, epidemic doubling time, mean serial interval)
   - estimating the mortality rate for various groups (e.g., first understand the demographics of the cases, then understand possible sampling biases)
   - estimating the effectiveness of interventions like masks, travel bans, and social distancing in reducing the spread
  
@@ -27,7 +27,7 @@ Other aspects: feel free to choose other aspects if you are interested.
 For each (and many more aspects) there is an extensive body of scientific work being done. You only need to read one paper, and to your best ability, summarize the statistical aspects. Here are a few questions you should answer:
 
 1. what is the goal of the study?
-2. what type of data do they use? is it observational, experimental (refer to the sections where we studied this)? are there any possible biases in the data?
+2. what type of data do they use? is it observational, experimental (refer to the sections where we studied this)? what does it measure (case medical characteristics, questionnaires)? are there any possible biases in the data?
 3. what type of statistical tools do they use?
  * 3a. how do they visualize the data? do they use histograms, boxplots, etc? is it compelling?
  * 3b. what kind of statistical methods do they use? e.g., data summarization (mean/median, standard deviation), hypothesis testing, confidence intervals, p-values,  regression analysis,
