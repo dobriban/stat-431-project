@@ -89,6 +89,11 @@ Big Data Analytics, New Technology, and Proactive Testing](https://jamanetwork.c
  * [COVID-19 Open Research Dataset](https://pages.semanticscholar.org/coronavirus-research) from Allen Institute for AI & partners, tens of thousands of articles in machine readable format, and tools to  parse the
  * reviews of papers by an expert team at Mt Sinai Immunology: [Twitter](https://twitter.com/SinaiImmunol/status/1241526700741144576)
  * summary of work being done at UCL, UK: [link](https://www.ucl.ac.uk/news/2020/mar/covid-19-ucl-academics-mobilise-provide-critical-advice-and-expert-comment)
+ * predictive models:
+    * [nstitute for Health Metrics and Evaluation, UW](http://covid19.healthdata.org/projections), [Paper](https://www.medrxiv.org/content/10.1101/2020.03.27.20043752v1), [Methods & Code](https://github.com/ihmeuw-msca/CurveFit/blob/master/docs/methods.md) 
+    * Coverage in NY Times
+    > **Models predicting expected spread of the virus in the U.S. paint a grim picture.**
+    > The coronavirus studies that appear to have convinced President Trump to prolong disruptive social distancing in the United States paint a grim picture of a pandemic that is likely to ravage the country over the next several months, killing close to 100,000 Americans and infecting millions more.
  
  
 
