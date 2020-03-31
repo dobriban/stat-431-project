@@ -23,7 +23,8 @@ This is the description of the final project for Stat 431, Spring 2020, at the U
 Other aspects: feel free to choose other aspects if you are interested. Moreover, you are free to supplement your work by looking at other readings.
 
 ### Special notes
- - of course, it will may be hard to do summaries at the highest quality. However, before anyone accuses us of being dilettantes, it is important to remember that the goal of this project is an exercise of your critical reading & understanding skills. And specifically, it is about practicing your knowledge of statistics to wade through primary sources, to sort out fact and fiction about a critically important problem. 
+ * of course, it will may be hard to do summaries at the highest quality. However, before anyone accuses us of being dilettantes, it is important to remember that the goal of this project is an exercise of your critical reading & understanding skills. And specifically, it is about practicing your knowledge of statistics to wade through primary sources, to sort out fact and fiction about a critically important problem. 
+ * a more active perspective instead of reading papers may be to do your own data analysis & visualization to help understand Covid-19. There are several statistical analyses and visualizations that give valuable insights: [JHU cases map](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6), [Nextstrain phylogenetic tree](nextstrain.org). However, doing this in a quality fashion takes a lot of time & energy, so, while being valuable, I think it may be outside of the scope of this class.
 
 ## Instructions: 
 
