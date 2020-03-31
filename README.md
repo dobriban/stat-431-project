@@ -78,6 +78,9 @@ Big Data Analytics, New Technology, and Proactive Testing](https://jamanetwork.c
 
 * L. Yan et al., [Prediction of criticality in patients with severe Covid-19 infection using three clinical features: a machine learning-based prognostic model with clinical data in Wuhan](https://www.medrxiv.org/content/10.1101/2020.02.27.20028027v2). A statistical/machine learning model that identified three clinical features predictive of disease severity.
 
+* R. Li et al., [Substantial undocumented infection facilitates the rapid dissemination of novel coronavirus (SARS-CoV2)
+, Science  16 Mar 2020](https://science.sciencemag.org/content/early/2020/03/24/science.abb3221). Argues that a lot of infection is undocumented: "We estimate 86% of all infections were undocumented (95% CI: [82%-90%]) prior to 23 January 2020 travel restrictions." The model may be a bit too complicated to review for this class.
+
 ## Other resources
  * [WHO paper database](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov)
  * An analysis of the papers with the highest impact and attention at [Altmetric](https://www.altmetric.com/blog/the-altmetrics-of-coronavirus-how-research-has-shaped-our-understanding/)
