@@ -66,12 +66,13 @@ Here are a few relevant references:
 > Now, use the average doubling time for the coronavirus (time it takes to double cases, on average). It’s 6.2. That means that, in the 17 days it took this person to die, the cases had to multiply by ~8 (=2^(17/6)). That means that, if you are not diagnosing all cases, one death today means 800 true cases today.
 
 * C.J. Wang et al., [Response to COVID-19 in Taiwan
-Big Data Analytics, New Technology, and Proactive Testing](https://jamanetwork.com/journals/jama/fullarticle/2762689). An appartently effective set of measures in Taiwan.
+Big Data Analytics, New Technology, and Proactive Testing](https://jamanetwork.com/journals/jama/fullarticle/2762689). An apparently effective set of measures in Taiwan.
 
-* L. Yan et al., [rediction of criticality in patients with severe Covid-19 infection using three clinical features: a machine learning-based prognostic model with clinical data in Wuhan](https://www.medrxiv.org/content/10.1101/2020.02.27.20028027v2). A statistical/machine learning model that identified three clinical features predictive of disease severity.
+* L. Yan et al., [Prediction of criticality in patients with severe Covid-19 infection using three clinical features: a machine learning-based prognostic model with clinical data in Wuhan](https://www.medrxiv.org/content/10.1101/2020.02.27.20028027v2). A statistical/machine learning model that identified three clinical features predictive of disease severity.
 
 ## Other resources
  * reviews of papers by an expert team at Mt Sinai Immunology: [Twitter](https://twitter.com/SinaiImmunol/status/1241526700741144576)
+ * summary of work being done at UCL, UK: [link](https://www.ucl.ac.uk/news/2020/mar/covid-19-ucl-academics-mobilise-provide-critical-advice-and-expert-comment)
  
 
 
