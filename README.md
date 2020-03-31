@@ -10,6 +10,7 @@ This is the description of the final project for Stat 431, Spring 2020, at the U
  ## Epidemiological aspects:
   - estimating the reproductive number of the virus & other aspects (e.g., mean interval between infection and symptoms/incubation period [both mean and other percentiles], epidemic doubling time, mean serial interval, onset-to-first-medical-visit and onset-to-
 admission distribution, serial interval distribution, i.e.,  the delay between illness onset dates in successive cases in chains of transmission)
+      + a specific interesting problem is estimating R_0 based on the serial interval distribution and the doubling time
   - estimating the mortality rate for various groups (e.g., first understand the demographics of the cases, then understand possible sampling biases)
   - estimating the effectiveness of interventions like masks, travel bans, and social distancing in reducing the spread
   - estimating and modelling the growth rate 
@@ -76,6 +77,7 @@ Big Data Analytics, New Technology, and Proactive Testing](https://jamanetwork.c
 ## Other resources
  * reviews of papers by an expert team at Mt Sinai Immunology: [Twitter](https://twitter.com/SinaiImmunol/status/1241526700741144576)
  * summary of work being done at UCL, UK: [link](https://www.ucl.ac.uk/news/2020/mar/covid-19-ucl-academics-mobilise-provide-critical-advice-and-expert-comment)
+ 
  
 
 
