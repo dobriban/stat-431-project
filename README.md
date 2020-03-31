@@ -94,7 +94,7 @@ Big Data Analytics, New Technology, and Proactive Testing](https://jamanetwork.c
     * Coverage in NY Times
     > **Models predicting expected spread of the virus in the U.S. paint a grim picture.**
     > The coronavirus studies that appear to have convinced President Trump to prolong disruptive social distancing in the United States paint a grim picture of a pandemic that is likely to ravage the country over the next several months, killing close to 100,000 Americans and infecting millions more.
- 
+   * [Imperial College, Mar 17 2020](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-NPI-modelling-16-03-2020.pdf)
  
 
 
