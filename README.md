@@ -71,7 +71,7 @@ Here are a few relevant references:
 
 * N v Dorelman et al, [Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1, N Engl J Med 2020
 ](https://www.nejm.org/doi/full/10.1056/nejmc2004973). An influential article evaluating the stability of SARS-CoV-2 and
-SARS-CoV-1 in aerosols and on various surfaces, and estimating their decay rates using a Bayesian regression model. Good example of using sophisticated statistical methods to tackle an important problem.
+SARS-CoV-1 in aerosols and on various surfaces, and estimating their decay rates using a Bayesian regression model. Good example of using sophisticated statistical methods to tackle an important problem. See the [supplement](https://www.nejm.org/doi/suppl/10.1056/NEJMc2004973/suppl_file/nejmc2004973_appendix.pdf), pages 3-5 for their methods.
 
 * C.J. Wang et al., [Response to COVID-19 in Taiwan
 Big Data Analytics, New Technology, and Proactive Testing](https://jamanetwork.com/journals/jama/fullarticle/2762689). An apparently effective set of measures in Taiwan.
