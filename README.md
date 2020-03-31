@@ -11,6 +11,7 @@ This is the description of the final project for Stat 431, Spring 2020, at the U
   - estimating the reproductive number of the virus & other aspects (e.g., mean interval between infection and symptoms/incubation period, epidemic doubling time, mean serial interval)
   - estimating the mortality rate for various groups (e.g., first understand the demographics of the cases, then understand possible sampling biases)
   - estimating the effectiveness of interventions like masks, travel bans, and social distancing in reducing the spread
+  - estimating and modelling the growth rate 
  
  ## Medical aspects:
   - estimating the need for various medical resources (beds, masks)
@@ -24,7 +25,7 @@ Other aspects: feel free to choose other aspects if you are interested. Moreover
 
 ### Special notes
  * of course, it will may be hard to do summaries at the highest quality. However, before anyone accuses us of being dilettantes, it is important to remember that the goal of this project is an exercise of your critical reading & understanding skills. And specifically, it is about practicing your knowledge of statistics to wade through primary sources, to sort out fact and fiction about a critically important problem. 
- * a more active perspective instead of reading papers may be to do your own data analysis & visualization to help understand Covid-19. There are several statistical analyses and visualizations that give valuable insights: [JHU cases map](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6), [Nextstrain phylogenetic tree](nextstrain.org). However, doing this in a quality fashion takes a lot of time & energy, so, while being valuable, I think it may be outside of the scope of this class.
+ * a more active perspective instead of reading papers may be to do your own data analysis & visualization to help understand Covid-19. There are several statistical analyses and visualizations that give valuable insights: [JHU cases map](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6), [Nextstrain phylogenetic tree](nextstrain.org), [covid-19 dashboards](https://covid19dashboards.com/). However, doing this in a quality fashion takes a lot of time & energy, so, while being valuable, I think it may be outside of the scope of this class.
 
 ## Instructions: 
 
@@ -56,6 +57,9 @@ Here are a few relevant references:
 
 * Q. Li et al., [Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus–Infected Pneumonia
 , N Engl J Med 2020; 382:1199-1207](https://www.nejm.org/doi/full/10.1056/NEJMoa2001316). An epidemiological study structured in a direct & easy to read way. Good choice for a summary.
+
+* C. Wang et al., [Evolving Epidemiology and Impact of Non-pharmaceutical Interventions on the Outbreak of Coronavirus Disease 2019 in Wuhan, China](https://www.medrxiv.org/content/10.1101/2020.03.03.20030593v1). [Video](https://harvard.zoom.us/rec/play/v8Ytceqqqzs3GNzB4gSDB_59W9TsK6Ks13RI_6cLxB62BSUAOlumZeRAZLC7e1vif7xIyy6HL_uXyNHw?startTime=1584118874000) by prof. Xihong Lin from HSPH. Another, bigger, epidemiological study. Fits SEIR model to estimate R_0, see here for background: [Simple SIR model](https://www.idmod.org/docs/hiv/model-compartments.html), [More sophisticated SEIRS model](https://www.idmod.org/docs/hiv/model-seir.html). 
+
 
 
 
