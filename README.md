@@ -83,7 +83,7 @@ Big Data Analytics, New Technology, and Proactive Testing](https://jamanetwork.c
 
 ## Other resources
  * [WHO paper database](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov)
- * An analysis of the papers with the highest impact and attention at [Altmetric](https://www.altmetric.com/blog/the-altmetrics-of-coronavirus-how-research-has-shaped-our-understanding/)
+ * An analysis of the papers with the highest impact and attention at [Altmetric](https://www.altmetric.com/blog/the-altmetrics-of-coronavirus-how-research-has-shaped-our-understanding/), and their updated database [dimensions.ai](https://app.dimensions.ai/discover/publication?search_text=%222019-nCoV%22%20OR%20%22COVID-19%22%20OR%20%E2%80%9CSARS-CoV-2%E2%80%9D%20OR%20%22HCoV-2019%22%20OR%20%22hcov%22%20OR%20%22NCOVID-19%22%20OR%20%20%22severe%20acute%20respiratory%20syndrome%20coronavirus%202%22%20OR%20%22severe%20acute%20respiratory%20syndrome%20corona%20virus%202%22%20OR%20((%22coronavirus%22%20%20OR%20%22corona%20virus%22)%20AND%20(Wuhan%20OR%20China%20OR%20novel))&search_type=kws&search_field=full_search&and_facet_year=2020&order=altmetric)
  * [COVID-19 Open Research Dataset](https://pages.semanticscholar.org/coronavirus-research) from Allen Institute for AI & partners, tens of thousands of articles in machine readable format, and tools to  parse the
  * reviews of papers by an expert team at Mt Sinai Immunology: [Twitter](https://twitter.com/SinaiImmunol/status/1241526700741144576)
  * summary of work being done at UCL, UK: [link](https://www.ucl.ac.uk/news/2020/mar/covid-19-ucl-academics-mobilise-provide-critical-advice-and-expert-comment)
