@@ -40,7 +40,7 @@ For each (and many more aspects) there is an extensive body of scientific work b
 4. what do they conclude? how does the data support the conclusions? 
 5. what are your overall impressions? what were the strong points, what were the limitations, what could be improved? 
 
-I anticipate that 3c may be challenging for many papers, because they may use advanced statistical methods that we have not covered in the class. I have a few comments and suggestions: first, the goal is not to understand in 100% detail the subtleties of the technique, but rather to appreciate how the methods are used. The goal is to understand the methods as well as you can, based on the training in the class, and based on your independent research. You are expected to look up relevant methods that appear in the work on the internet and spend some time understanding them. This will also be a valuable experience - no matter how many statistics classes you take, in your work you will always encounter new methods, and you need to be prepared to learn about them on the spot.
+I anticipate that 3c may be challenging for many papers, because they may use advanced statistical methods that we have not covered in the class. I have a few comments and suggestions: first, the goal is not to understand in 100% detail the subtleties of the technique, but rather to appreciate how the methods are used. The goal is to understand the methods as well as you can, based on the training in the class, and based on your independent research. You are expected to look up relevant methods that appear in the work on the internet and spend some time understanding them. This will also be a valuable experience - no matter how many statistics classes you take, in your work you will always encounter new methods, and you need to be prepared to learn about them on the spot. Even more, as informed citizens of the future, it will serve you well to be able to read beyond what is presented to you in a processed way in popular press.
 
 Also I anticipate that some aspects may require you to do some indepenent reading. For instance, if you talk about estimating the basic reproduction number <img src="https://render.githubusercontent.com/render/math?math=R_0">
 , then you first need to understand what that is, and what models are used to estimate it. 
@@ -65,6 +65,14 @@ Here are a few relevant references:
 > Then, you know the mortality rate. For this scenario, I’m using 1% (we’ll discuss later the details). That means that, around 2/12, there were already around ~100 cases in the area (of which only one ended up in death 17.3 days later).
 > Now, use the average doubling time for the coronavirus (time it takes to double cases, on average). It’s 6.2. That means that, in the 17 days it took this person to die, the cases had to multiply by ~8 (=2^(17/6)). That means that, if you are not diagnosing all cases, one death today means 800 true cases today.
 
+* C.J. Wang et al., [Response to COVID-19 in Taiwan
+Big Data Analytics, New Technology, and Proactive Testing](https://jamanetwork.com/journals/jama/fullarticle/2762689). An appartently effective set of measures in Taiwan.
+
+* L. Yan et al., [rediction of criticality in patients with severe Covid-19 infection using three clinical features: a machine learning-based prognostic model with clinical data in Wuhan](https://www.medrxiv.org/content/10.1101/2020.02.27.20028027v2). A statistical/machine learning model that identified three clinical features predictive of disease severity.
+
+## Other resources
+ * reviews of papers by an expert team at Mt Sinai Immunology: [Twitter](https://twitter.com/SinaiImmunol/status/1241526700741144576)
+ 
 
 
 
