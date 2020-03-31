@@ -20,7 +20,10 @@ This is the description of the final project for Stat 431, Spring 2020, at the U
   - estimating the economic impact and losses due to the virus (e.g., increase in unemployment rate, decrease in rate of growth of GDP)
   - evaluating the impact on the stock market (e.g., assessing the magnitude of the crash)
 
-Other aspects: feel free to choose other aspects if you are interested.
+Other aspects: feel free to choose other aspects if you are interested. Moreover, you are free to supplement your work by looking at other readings.
+
+### Special notes
+ - of course, it will may be hard to do summaries at the highest quality. However, before anyone accuses us of being dilettantes, it is important to remember that the goal of this project is an exercise of your critical reading & understanding skills. And specifically, it is about practicing your knowledge of statistics to wade through primary sources, to sort out fact and fiction about a critically important problem. 
 
 ## Instructions: 
 
