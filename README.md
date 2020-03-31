@@ -91,10 +91,10 @@ Big Data Analytics, New Technology, and Proactive Testing](https://jamanetwork.c
  * summary of work being done at UCL, UK: [link](https://www.ucl.ac.uk/news/2020/mar/covid-19-ucl-academics-mobilise-provide-critical-advice-and-expert-comment)
  * predictive models:
     * [Institute for Health Metrics and Evaluation, UW](http://covid19.healthdata.org/projections), [Paper](https://www.medrxiv.org/content/10.1101/2020.03.27.20043752v1), [Methods & Code](https://github.com/ihmeuw-msca/CurveFit/blob/master/docs/methods.md) 
-    * Coverage in NY Times
+    * [Imperial College, Mar 17 2020](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-NPI-modelling-16-03-2020.pdf)
+    * Coverage in NY Times, Mar 31 2020.
     > **Models predicting expected spread of the virus in the U.S. paint a grim picture.**
     > The coronavirus studies that appear to have convinced President Trump to prolong disruptive social distancing in the United States paint a grim picture of a pandemic that is likely to ravage the country over the next several months, killing close to 100,000 Americans and infecting millions more.
-   * [Imperial College, Mar 17 2020](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-NPI-modelling-16-03-2020.pdf)
  
 
 
