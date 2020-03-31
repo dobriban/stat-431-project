@@ -46,6 +46,8 @@ I anticipate that 3c may be challenging for many papers, because they may use ad
 Also I anticipate that some aspects may require you to do some indepenent reading. For instance, if you talk about estimating the basic reproduction number <img src="https://render.githubusercontent.com/render/math?math=R_0">
 , then you first need to understand what that is, and what models are used to estimate it. 
 
+For some of the papers, you will need to look at the supplementary material to understand what is being done. The main body of papers often just briefly describes the methods, and the details (which can be crucial) are often reported in supplementary materials.
+
 Your report should be about 5 pages double-spaced, standard font size and standard formatting (standard margin). You can work in groups of at most two. You should turn in your project on Canvas (there will be an Assignment created for this), by 5pm EST on May 5th 2020 (this was the date of the original final exam). 
 
 The University of Pennsylvania's Code of Academic Integrity applies: https://catalog.upenn.edu/pennbook/code-of-academic-integrity/. Please add the phrase "This paper represents my own work in accordance with the Code of Academic Integrity" to your paper and sign below.
