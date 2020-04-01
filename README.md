@@ -95,7 +95,9 @@ Big Data Analytics, New Technology, and Proactive Testing](https://jamanetwork.c
     * Note on low quality models on the [Statistical Modeling blog](https://statmodeling.stat.columbia.edu/2020/03/31/and-the-band-played-on-low-quality-studies-being-published-on-covid19-prediction/)
     * Coverage in NY Times, Mar 31 2020.
     > **Models predicting expected spread of the virus in the U.S. paint a grim picture.**
-    > The coronavirus studies that appear to have convinced President Trump to prolong disruptive social distancing in the United States paint a grim picture of a pandemic that is likely to ravage the country over the next several months, killing close to 100,000 Americans and infecting millions more.
+    > The coronavirus studies that appear to have convinced President Trump to prolong disruptive social distancing in the United States paint a grim picture of a pandemic that is likely to ravage the country over the next several months, killing close to 100,000 Americans and infecting millions more. 
+![alt text](https://github.com/dobriban/stat-431-project/blob/master/nytimes_3.31.2020_models.png "Coverage in NY Times, Mar 31 2020.")
+
  
 
 
