@@ -57,6 +57,8 @@ The University of Pennsylvania's Code of Academic Integrity applies: https://cat
 
 Here are a few relevant references: 
 
+### Epidemiology and medicine
+
 * A.S. Fauci et al., [Covid-19 — Navigating the Uncharted, N Engl J Med 2020; 382:1268-126](https://www.nejm.org/doi/full/10.1056/NEJMe2002387). An overview of some basic facts and work. Has pointers to work that is suitable to summarize in the project.
 
 * Q. Li et al., [Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus–Infected Pneumonia
@@ -85,6 +87,14 @@ Big Data Analytics, New Technology, and Proactive Testing](https://jamanetwork.c
 , Science  16 Mar 2020](https://science.sciencemag.org/content/early/2020/03/24/science.abb3221). Argues that a lot of infection is undocumented: "We estimate 86% of all infections were undocumented (95% CI: [82%-90%]) prior to 23 January 2020 travel restrictions." The model may be a bit too complicated to review for this class.
 
 * S. Flaxman et al., [Estimating the number of infections and the impact of nonpharmaceutical interventions on COVID-19 in 11 European countries](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-Europe-estimates-and-NPI-impact-30-03-2020.pdf). Using a hierarchical Bayesian statistical model, estimates that a large number of deaths have been averted in Europe because of infection-control measures such as national lockdowns.
+
+### Economics and finance
+
+* [Institute for Supply Management, March 2020 Manufacturing report](https://www.instituteforsupplymanagement.org/ISMReport/MfgROB.cfm?SSO=1)
+
+### Crime and social
+
+* Are crime rates declining? [Chicago tribune article](https://www.chicagotribune.com/coronavirus/ct-coronavirus-chicago-police-new-crime-stats-20200331-utnr2apdtbdzhagsehlzvq4lvi-story.html), [Philly police crime maps](https://www.phillypolice.com/crime-maps-stats/), [Weekly reports](https://drive.google.com/drive/folders/1eo4BIOGHcibOTcHRsGoEEiNrrCsuVOdH). Is there enough data to conclude that crime rates are declining? What kind of statistical methods may one use to argue about this?
 
 ## Other resources
  * [WHO paper database](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov)
