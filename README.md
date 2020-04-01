@@ -94,7 +94,7 @@ Big Data Analytics, New Technology, and Proactive Testing](https://jamanetwork.c
  * summary of work being done at UCL, UK: [link](https://www.ucl.ac.uk/news/2020/mar/covid-19-ucl-academics-mobilise-provide-critical-advice-and-expert-comment)
  * up-to date data: [Worldometers](https://www.worldometers.info/coronavirus/#countries), [1point3acres](https://coronavirus.1point3acres.com/en), 
  * predictive models:
-    * [Institute for Health Metrics and Evaluation, UW](http://covid19.healthdata.org/projections), [Paper](https://www.medrxiv.org/content/10.1101/2020.03.27.20043752v1), [Methods & Code](https://github.com/ihmeuw-msca/CurveFit/blob/master/docs/methods.md). Used in the White House address (See below) 
+    * [Institute for Health Metrics and Evaluation, UW](http://covid19.healthdata.org/projections), [Paper](https://www.medrxiv.org/content/10.1101/2020.03.27.20043752v1), [Code](https://github.com/ihmeuw-msca/CurveFit), [Methods pdf](https://github.com/dobriban/CurveFit/blob/master/docs/methods.pdf). Used in the White House address (See below) 
     * [Imperial College, Mar 17 2020](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-NPI-modelling-16-03-2020.pdf)
     * Note on low quality models on the [Statistical Modeling blog](https://statmodeling.stat.columbia.edu/2020/03/31/and-the-band-played-on-low-quality-studies-being-published-on-covid19-prediction/)
     * Coverage in NY Times, Mar 31 2020.
