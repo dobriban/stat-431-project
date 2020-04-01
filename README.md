@@ -88,12 +88,12 @@ Big Data Analytics, New Technology, and Proactive Testing](https://jamanetwork.c
 
 * S. Flaxman et al., [Estimating the number of infections and the impact of nonpharmaceutical interventions on COVID-19 in 11 European countries](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-Europe-estimates-and-NPI-impact-30-03-2020.pdf). Using a hierarchical Bayesian statistical model, estimates that a large number of deaths have been averted in Europe because of infection-control measures such as national lockdowns.
 
-### Economics and finance
+### Economics, finance, social, etc
 
-* [Institute for Supply Management, March 2020 Manufacturing report](https://www.instituteforsupplymanagement.org/ISMReport/MfgROB.cfm?SSO=1)
-
-### Crime and social
-
+* W McKibbin, R Fernando [The Global Macroeconomic Impacts of COVID-19: Seven Scenarios](https://www.brookings.edu/wp-content/uploads/2020/03/20200302_COVID19.pdf), Bookings Institution 3.2.2020. 
+  * Referred to in UN report [Shared responsibility, global solidarity: Responding to the socio-economic impact of covid-19](https://www.un.org/sites/un2.un.org/files/sg_report_socio-economic_impact_of_covid19.pdf). Fig 3 is a good example of a statistical method for illustrating the impact on unemployment. "According to the UN International Labour Organization (ILO), five to 25 million jobs will be eradicated, and the world will lose $860 billion to $3.4 trillion in labor income." [ILO article](https://www.ilo.org/global/topics/coronavirus/impacts-and-responses/WCMS_739047/lang--en/index.htm)
+* [International Capital Market Association (ICMA) COVID-19 Market Updates](https://www.icmagroup.org/Regulatory-Policy-and-Market-Practice/covid-19-market-updates/), [Market data and commentary](https://www.icmagroup.org/Regulatory-Policy-and-Market-Practice/covid-19-market-updates/market-data-and-commentary/). Documents market data, focus on Europe.
+* [Institute for Supply Management, March 2020 Manufacturing report](https://www.instituteforsupplymanagement.org/ISMReport/MfgROB.cfm?SSO=1). Documents decrease in manufacturing and production. 
 * Are crime rates declining? [Chicago tribune article](https://www.chicagotribune.com/coronavirus/ct-coronavirus-chicago-police-new-crime-stats-20200331-utnr2apdtbdzhagsehlzvq4lvi-story.html), [Philly police crime maps](https://www.phillypolice.com/crime-maps-stats/), [Weekly reports](https://drive.google.com/drive/folders/1eo4BIOGHcibOTcHRsGoEEiNrrCsuVOdH). Is there enough data to conclude that crime rates are declining? What kind of statistical methods may one use to argue about this?
 
 ## Other resources
