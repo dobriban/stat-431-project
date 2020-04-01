@@ -69,6 +69,9 @@ Here are a few relevant references:
 > Then, you know the mortality rate. For this scenario, I’m using 1% (we’ll discuss later the details). That means that, around 2/12, there were already around ~100 cases in the area (of which only one ended up in death 17.3 days later).
 > Now, use the average doubling time for the coronavirus (time it takes to double cases, on average). It’s 6.2. That means that, in the 17 days it took this person to die, the cases had to multiply by ~8 (=2^(17/6)). That means that, if you are not diagnosing all cases, one death today means 800 true cases today.
 
+* Q. Zhao et al, [A novel analysis of the epidemic outbreak of coronavirus disease 2019
+](http://www.statslab.cam.ac.uk/~qz280/papers/covid-2019-1.pdf), preprint. This work, done in part by Wharton stats faculty and alumni, argues that the epidemic doubling time (before lockdown in Wuhan) was cca 2.8 days, much lower than the cca 7 days estimated in other works (eg the Li et al paper cited above). They achieve this by careful analysis of cases that left Wuhan before the lockdown. [Data](https://github.com/qingyuanzhao/2019-nCov-Data), [analysis](https://htmlpreview.github.io/?https://github.com/qingyuanzhao/2019-nCov-Data/blob/master/1st-Report/Feb6.html)
+
 * N v Dorelman et al, [Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1, N Engl J Med 2020
 ](https://www.nejm.org/doi/full/10.1056/nejmc2004973). An influential article evaluating the stability of SARS-CoV-2 and
 SARS-CoV-1 in aerosols and on various surfaces, and estimating their decay rates using a Bayesian regression model. Good example of using sophisticated statistical methods to tackle an important problem. See the [supplement](https://www.nejm.org/doi/suppl/10.1056/NEJMc2004973/suppl_file/nejmc2004973_appendix.pdf), pages 3-5 for their methods.
