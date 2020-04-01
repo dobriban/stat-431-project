@@ -97,7 +97,7 @@ Big Data Analytics, New Technology, and Proactive Testing](https://jamanetwork.c
     > **Models predicting expected spread of the virus in the U.S. paint a grim picture.**
     > The coronavirus studies that appear to have convinced President Trump to prolong disruptive social distancing in the United States paint a grim picture of a pandemic that is likely to ravage the country over the next several months, killing close to 100,000 Americans and infecting millions more. 
 ![alt text](https://github.com/dobriban/stat-431-project/blob/master/nytimes_3.31.2020_models.png "Coverage in NY Times, Mar 31 2020.")
-    * Models take a prominent role in a White House address: [![White House address](http://img.youtube.com/vi/CWFOKznwNhQ/0.jpg)](https://www.youtube.com/watch?v=CWFOKznwNhQ&feature=youtu.be&t=891 "White House address")
+    * Statistical models take a prominent role in a White House address: [![White House address](http://img.youtube.com/vi/CWFOKznwNhQ/0.jpg)](https://www.youtube.com/watch?v=CWFOKznwNhQ&feature=youtu.be&t=891 "White House address")
 
 
  
