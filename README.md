@@ -116,6 +116,7 @@ Big Data Analytics, New Technology, and Proactive Testing](https://jamanetwork.c
 ![alt text](https://github.com/dobriban/stat-431-project/blob/master/nytimes_3.31.2020_models.png "Coverage in NY Times, Mar 31 2020.")
     * Statistical models take a prominent role in a White House address: [![White House address](http://img.youtube.com/vi/CWFOKznwNhQ/0.jpg)](https://www.youtube.com/watch?v=CWFOKznwNhQ&feature=youtu.be&t=891 "White House address")
  * [Chicago Booth Initiaive on Global Markets (IGM)](http://www.igmchicago.org/covid-19/)
+ * [Collection of articles in Science](https://www.sciencemag.org/coronavirus-research-commentary-and-news?intcmp=ghd_cov), many other sources temporarily collected and accessible through [Google Scholar](https://scholar.google.com/)
 
 
  
