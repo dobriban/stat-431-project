@@ -63,6 +63,8 @@ The materials below can serve as a helpful orientation into the extensive litera
 
 * A.S. Fauci et al., [Covid-19 — Navigating the Uncharted, N Engl J Med 2020; 382:1268-126](https://www.nejm.org/doi/full/10.1056/NEJMe2002387). An overview of some basic facts and work. Has pointers to work that is suitable to summarize in the project.
 
+* Congressional Reasearch Service (CRS), 3/26/2020 [Global Economic Effects of COVID-19](https://crsreports.congress.gov/product/pdf/R/R46270)
+
 ### Scientific articles
 
 The articles below can be summarized as part of the project. They are arranged into groups based on their length, complexity, and difficulty. You can choose papers from any group, but if you choose a smaller paper, then you are expected to cover it in more detail & the correctness standard is also higher. For the more complex papers, you are not expected to summarize them in full technical detail.
@@ -108,7 +110,7 @@ Big Data Analytics, New Technology, and Proactive Testing](https://jamanetwork.c
 
 * W McKibbin, R Fernando, [The Global Macroeconomic Impacts of COVID-19: Seven Scenarios](https://www.brookings.edu/wp-content/uploads/2020/03/20200302_COVID19.pdf), Bookings Institution 3.2.2020. Detailed description of their Dynamic stochastic general equilibrium (DSGE) model can be found in the paper [W McKibbin & A Triggs](https://cama.crawford.anu.edu.au/sites/default/files/publication/cama_crawford_anu_edu_au/2018-04/17_2018_mckibbin_triggs_v1.pdf)
   * Referred to in UN report [Shared responsibility, global solidarity: Responding to the socio-economic impact of covid-19](https://www.un.org/sites/un2.un.org/files/sg_report_socio-economic_impact_of_covid19.pdf). Fig 3 is a good example of a statistical method for illustrating the impact on unemployment. "According to the UN International Labour Organization (ILO), five to 25 million jobs will be eradicated, and the world will lose $860 billion to $3.4 trillion in labor income." [ILO article](https://www.ilo.org/global/topics/coronavirus/impacts-and-responses/WCMS_739047/lang--en/index.htm)
-<> (* S Ramelli, AF Wagner, [Feverish Stock Price Reactions to Covid-19](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3560319). Studies stock market reactions. See also easy-to-read summary (of the first version, Mar 9) at [VoxEU](https://voxeu.org/article/what-stock-market-tells-us-about-consequences-covid-19))
+
 * [OECD Economic Outlook, Mar 2020](https://read.oecd-ilibrary.org/economics/oecd-economic-outlook/volume-2019/issue-2_7969896b-en#page1). Uses NIGEM model developed by the Nat'l Inst of Econ and Soc Research, see [here](https://nimodel.niesr.ac.uk/index.php?t=5). See also discussion of [use of models at OECD](http://www.oecd.org/officialdocuments/publicdisplaydocumentpdf/?cote=ECO/WKP(2016)60&docLanguage=En)
 * Gormsen and Koijen, [Coronavirus: Impact on Stock Prices and Growth Expectations](https://retirementincomejournal.com/wp-content/uploads/2020/03/SSRN-id3556143.pdf) Uses dividend futures, contracts that pay the dividends of the aggregate stock market in a given year, to forecast GDP returns.
 
