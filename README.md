@@ -57,12 +57,26 @@ The University of Pennsylvania's Code of Academic Integrity applies: https://cat
 
 Here are a few relevant references: 
 
-### Epidemiology and medicine
+### Warmup and orientation
+
+The materials below can serve as a helpful orientation into the extensive literature. However, they themselves are not appropriate to be a main source that you summarize.
 
 * A.S. Fauci et al., [Covid-19 — Navigating the Uncharted, N Engl J Med 2020; 382:1268-126](https://www.nejm.org/doi/full/10.1056/NEJMe2002387). An overview of some basic facts and work. Has pointers to work that is suitable to summarize in the project.
 
+### Scientific articles
+
+The articles below can be summarized as part of the project. They are arranged into groups based on their length, complexity, and difficulty. You can choose papers from any group, but if you choose a smaller paper, then you are expected to cover it in more detail & the correctness standard is also higher. For the more complex papers, you are not expected to summarize them in full technical detail.
+
+### Epidemiology and medicine
+
+#### Basic level
+
+* C. Huang et al, [Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China, Lancet 2020; 395: 497–506](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30183-5/fulltext). An epidemiological study structured in a direct & easy to read way. Good choice for a summary. This is perhaps the simplest one to summarize.
+
 * Q. Li et al., [Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus–Infected Pneumonia
-, N Engl J Med 2020; 382:1199-1207](https://www.nejm.org/doi/full/10.1056/NEJMoa2001316). An epidemiological study structured in a direct & easy to read way. Good choice for a summary. Similar earlier study [C. Huang et al, Lancet 2020; 395: 497–506](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30183-5/fulltext). This is perhaps the simplest one to summarize.
+, N Engl J Med 2020; 382:1199-1207](https://www.nejm.org/doi/full/10.1056/NEJMoa2001316). Similar later study.
+
+#### Medium to high level
 
 * C. Wang et al., [Evolving Epidemiology and Impact of Non-pharmaceutical Interventions on the Outbreak of Coronavirus Disease 2019 in Wuhan, China](https://www.medrxiv.org/content/10.1101/2020.03.03.20030593v1). [Video](https://harvard.zoom.us/rec/play/v8Ytceqqqzs3GNzB4gSDB_59W9TsK6Ks13RI_6cLxB62BSUAOlumZeRAZLC7e1vif7xIyy6HL_uXyNHw?startTime=1584118874000) by prof. Xihong Lin from HSPH. Another, bigger, epidemiological study. Fits SEIR model to estimate R_0, see here for background: [Simple SIR model](https://www.idmod.org/docs/hiv/model-compartments.html), [More sophisticated SEIRS model](https://www.idmod.org/docs/hiv/model-seir.html). More readable, but perhaps less scientifically rigorous exposition: [link](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca). Quote from the last one, a particularly insightful and readable paragraph: 
 
