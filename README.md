@@ -63,7 +63,7 @@ The materials below can serve as a helpful orientation into the extensive litera
 
 * A.S. Fauci et al., [Covid-19 — Navigating the Uncharted, N Engl J Med 2020; 382:1268-126](https://www.nejm.org/doi/full/10.1056/NEJMe2002387). An overview of some basic facts and work. Has pointers to work that is suitable to summarize in the project.
 
-* Congressional Reasearch Service (CRS), 3/26/2020 [Global Economic Effects of COVID-19](https://crsreports.congress.gov/product/pdf/R/R46270)
+* Congressional Reasearch Service (CRS), 3/26/2020 [Global Economic Effects of COVID-19](https://crsreports.congress.gov/product/pdf/R/R46270). Gives well-researched summary of various thoughts on global economic effects. See also this presentation by [KPMG](https://www.kpmg.us/content/dam/kpmg/pdf/2020/covid-19-impact.pdf), which has a lot of charts.
 
 ### Scientific articles
 
