@@ -41,7 +41,7 @@ For each (and many more aspects) there is an extensive body of scientific work b
 4. What do they conclude? how does the data support the conclusions? 
 5. What are your overall impressions? what were the strong points, what were the limitations, what could be improved? 
 
-This work should take several days to complete (including reading the main source, additional background reading, planning the summary, and writing). 
+This work should take several days (say 3-4 days) to complete (including reading the main source, additional background reading, planning the summary, and writing). 
 
 I anticipate that 3c may be challenging for many papers, because they may use advanced statistical methods that we have not covered in the class. I have a few comments and suggestions: first, the goal is not to understand in 100% detail the subtleties of the technique, but rather to appreciate how the methods are used. The goal is to understand the methods as well as you can, based on the training in the class, and based on your independent reading preparing for the project. You are expected to look up relevant methods that appear in the work, and spend some time understanding them. This will also be a valuable experience - no matter how many statistics classes you take, in your work in "the real world" you will always encounter new statistical methods. You need to be prepared to learn about them on the spot. Even more, as informed citizens of the future, it will serve you well to read beyond what is presented in a processed way in popular press.
 
@@ -114,7 +114,7 @@ Big Data Analytics, New Technology, and Proactive Testing](https://jamanetwork.c
 
 #### Basic level
 
-* Economic Policy Institute [3.5 million workers likely lost their employer-provided health insurance in the past two weeks](https://www.epi.org/blog/3-5-million-workers-likely-lost-their-employer-provided-health-insurance-in-the-past-two-weeks/). This is not an academic paper, but a post by a think tank. However, it is structured similarly to a paper. It studies the important problem of health insurance loss. It reports the full steps of the data analysis. It uses statistical methods like basic summary statisics (sample averages, percentages), and some visualization techniques. However, it does not address statistical inference questions like assessing uncertainty (which they could improve).
+* Economic Policy Institute, [3.5 million workers likely lost their employer-provided health insurance in the past two weeks](https://www.epi.org/blog/3-5-million-workers-likely-lost-their-employer-provided-health-insurance-in-the-past-two-weeks/). This is not an academic paper, but a post by a think tank. However, it is structured similarly to a paper. It studies the important problem of health insurance loss. It reports the full steps of the data analysis. It uses statistical methods like basic summary statisics (sample averages, percentages), and some visualization techniques. However, it does not address statistical inference questions like assessing uncertainty (which they could improve).
 
 #### Medium level
 
