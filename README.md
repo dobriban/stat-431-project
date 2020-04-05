@@ -106,6 +106,10 @@ Big Data Analytics, New Technology, and Proactive Testing](https://jamanetwork.c
 
 ### Economics, finance, social, etc
 
+#### Basic level
+
+* Economic Policy Institute [3.5 million workers likely lost their employer-provided health insurance in the past two weeks](https://www.epi.org/blog/3-5-million-workers-likely-lost-their-employer-provided-health-insurance-in-the-past-two-weeks/). This is not an academic paper, but a post by a think tank. However, it does have a quite rigorous statistical methodology reported, and studies an important problem. 
+
 #### Medium level
 
 * H Yilmazkuday, [Coronavirus Effects on the U.S. Unemployment: Evidence from Google Trends](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3559860). 3/23/2020. Uses a  structural vector autoregression (SVAR) model, with Bayesian inference, to estimate relation between Google search queries of "coronavirus", "unemployment", etc.
