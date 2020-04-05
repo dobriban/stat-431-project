@@ -17,7 +17,7 @@ admission distribution, serial interval distribution, i.e.,  the delay between i
  
  ## Medical aspects:
   - estimating the need for various medical resources (beds, masks)
-  - estimating the effectiveness of vaccinces and other treatments
+  - estimating the effectiveness of vaccinces and other treatments (e.g., what is the effect of wearing various types of masks?)
   
  ## Economic aspects:
   - estimating the economic impact and losses due to the virus (e.g., increase in unemployment rate, decrease in rate of growth of GDP)
@@ -115,6 +115,7 @@ Big Data Analytics, New Technology, and Proactive Testing](https://jamanetwork.c
     > The coronavirus studies that appear to have convinced President Trump to prolong disruptive social distancing in the United States paint a grim picture of a pandemic that is likely to ravage the country over the next several months, killing close to 100,000 Americans and infecting millions more. 
 ![alt text](https://github.com/dobriban/stat-431-project/blob/master/nytimes_3.31.2020_models.png "Coverage in NY Times, Mar 31 2020.")
     * Statistical models take a prominent role in a White House address: [![White House address](http://img.youtube.com/vi/CWFOKznwNhQ/0.jpg)](https://www.youtube.com/watch?v=CWFOKznwNhQ&feature=youtu.be&t=891 "White House address")
+    * Statistical models also form the core of the discussion in a NY Governor's address:  [![White House address](http://img.youtube.com/vi/kR0DXoWYS50/0.jpg)](https://www.youtube.com/watch?v=kR0DXoWYS50&feature=youtu.be&t=260 "NY Gov. Cuomo address"). Quote: "by the data, we could be either very near the apex, or the apex could be a plateau & and we could be on it right now, [...] that's what the statisticians will tell you today".
  * [Chicago Booth Initiaive on Global Markets (IGM)](http://www.igmchicago.org/covid-19/)
  * [Collection of articles in Science](https://www.sciencemag.org/coronavirus-research-commentary-and-news?intcmp=ghd_cov), many other sources temporarily collected and accessible through [Google Scholar](https://scholar.google.com/)
 
