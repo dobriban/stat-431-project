@@ -104,15 +104,14 @@ Big Data Analytics, New Technology, and Proactive Testing](https://jamanetwork.c
 
 ### Economics, finance, social, etc
 
+#### Medium to high level
+
 * W McKibbin, R Fernando, [The Global Macroeconomic Impacts of COVID-19: Seven Scenarios](https://www.brookings.edu/wp-content/uploads/2020/03/20200302_COVID19.pdf), Bookings Institution 3.2.2020. Detailed description of their Dynamic stochastic general equilibrium (DSGE) model can be found in the paper [W McKibbin & A Triggs](https://cama.crawford.anu.edu.au/sites/default/files/publication/cama_crawford_anu_edu_au/2018-04/17_2018_mckibbin_triggs_v1.pdf)
   * Referred to in UN report [Shared responsibility, global solidarity: Responding to the socio-economic impact of covid-19](https://www.un.org/sites/un2.un.org/files/sg_report_socio-economic_impact_of_covid19.pdf). Fig 3 is a good example of a statistical method for illustrating the impact on unemployment. "According to the UN International Labour Organization (ILO), five to 25 million jobs will be eradicated, and the world will lose $860 billion to $3.4 trillion in labor income." [ILO article](https://www.ilo.org/global/topics/coronavirus/impacts-and-responses/WCMS_739047/lang--en/index.htm)
 <> (* S Ramelli, AF Wagner, [Feverish Stock Price Reactions to Covid-19](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3560319). Studies stock market reactions. See also easy-to-read summary (of the first version, Mar 9) at [VoxEU](https://voxeu.org/article/what-stock-market-tells-us-about-consequences-covid-19))
 * [OECD Economic Outlook, Mar 2020](https://read.oecd-ilibrary.org/economics/oecd-economic-outlook/volume-2019/issue-2_7969896b-en#page1). Uses NIGEM model developed by the Nat'l Inst of Econ and Soc Research, see [here](https://nimodel.niesr.ac.uk/index.php?t=5). See also discussion of [use of models at OECD](http://www.oecd.org/officialdocuments/publicdisplaydocumentpdf/?cote=ECO/WKP(2016)60&docLanguage=En)
 * Gormsen and Koijen, [Coronavirus: Impact on Stock Prices and Growth Expectations](https://retirementincomejournal.com/wp-content/uploads/2020/03/SSRN-id3556143.pdf) Uses dividend futures, contracts that pay the dividends of the aggregate stock market in a given year, to forecast GDP returns.
 
-* [International Capital Market Association (ICMA) COVID-19 Market Updates](https://www.icmagroup.org/Regulatory-Policy-and-Market-Practice/covid-19-market-updates/), [Market data and commentary](https://www.icmagroup.org/Regulatory-Policy-and-Market-Practice/covid-19-market-updates/market-data-and-commentary/). Documents market data, focus on Europe.
-* [Institute for Supply Management, March 2020 Manufacturing report](https://www.instituteforsupplymanagement.org/ISMReport/MfgROB.cfm?SSO=1). Documents decrease in manufacturing and production. 
-* Are crime rates declining? [Chicago tribune article](https://www.chicagotribune.com/coronavirus/ct-coronavirus-chicago-police-new-crime-stats-20200331-utnr2apdtbdzhagsehlzvq4lvi-story.html), [Philly police crime maps](https://www.phillypolice.com/crime-maps-stats/), [Weekly reports](https://drive.google.com/drive/folders/1eo4BIOGHcibOTcHRsGoEEiNrrCsuVOdH). Is there enough data to conclude that crime rates are declining? What kind of statistical methods may one use to argue about this?
 
 ## Other resources
  * [WHO paper database](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov)
@@ -134,6 +133,9 @@ Big Data Analytics, New Technology, and Proactive Testing](https://jamanetwork.c
     * Statistical models also form the core of the discussion in a NY Governor's address, 4.5.2020. Quote: "by the data, we could be either very near the apex, or the apex could be a plateau & and we could be on it right now, we won't know until a few days [...] that's what the statisticians will tell you today".  [![NY Gov. Cuomo address, 4.5.2020](http://img.youtube.com/vi/kR0DXoWYS50/0.jpg)](https://www.youtube.com/watch?v=kR0DXoWYS50&feature=youtu.be&t=260 "NY Gov. Cuomo address") 
  * [Chicago Booth Initiaive on Global Markets (IGM)](http://www.igmchicago.org/covid-19/)
  * [Collection of articles in Science](https://www.sciencemag.org/coronavirus-research-commentary-and-news?intcmp=ghd_cov), many other sources temporarily collected and accessible through [Google Scholar](https://scholar.google.com/)
+* [International Capital Market Association (ICMA) COVID-19 Market Updates](https://www.icmagroup.org/Regulatory-Policy-and-Market-Practice/covid-19-market-updates/), [Market data and commentary](https://www.icmagroup.org/Regulatory-Policy-and-Market-Practice/covid-19-market-updates/market-data-and-commentary/). Documents market data, focus on Europe.
+* [Institute for Supply Management, March 2020 Manufacturing report](https://www.instituteforsupplymanagement.org/ISMReport/MfgROB.cfm?SSO=1). Documents decrease in manufacturing and production. 
+* Are crime rates declining? [Chicago tribune article](https://www.chicagotribune.com/coronavirus/ct-coronavirus-chicago-police-new-crime-stats-20200331-utnr2apdtbdzhagsehlzvq4lvi-story.html), [Philly police crime maps](https://www.phillypolice.com/crime-maps-stats/), [Weekly reports](https://drive.google.com/drive/folders/1eo4BIOGHcibOTcHRsGoEEiNrrCsuVOdH). Is there enough data to conclude that crime rates are declining? What kind of statistical methods may one use to argue about this?
 
 
  
