@@ -50,7 +50,7 @@ I also anticipate that some aspects may require you to do a bit indepenent readi
 
 For some of the papers, you will need to look at the supplementary material to understand what is being done. The main body of papers often just briefly describes the methods, and the details (which can be crucial) are often reported in supplementary materials.
 
-Your report should be about 5-6 pages double-spaced, standard font size and standard formatting (standard margin). You can work in groups of at most two. You should turn in your project on Canvas (there will be an Assignment created for this), by 5pm EST on May 5th 2020 (this was the date of the original final exam). 
+Your report should be about 5-6 pages double-spaced, standard font size and standard formatting (standard margin). You can work in groups of at most two (i.e., one or two people per project). You should turn in your project on Canvas (there will be an Assignment created for this), by 5pm EST on May 5th 2020 (this was the date of the original final exam). 
 
 The University of Pennsylvania's Code of Academic Integrity applies: https://catalog.upenn.edu/pennbook/code-of-academic-integrity/. Please add the phrase "This paper represents my own work in accordance with the Code of Academic Integrity" to your paper and sign below.
 
@@ -68,7 +68,7 @@ The materials below can serve as a helpful orientation into the extensive litera
 
 ### Scientific articles
 
-The articles below can be summarized as part of the project. They are arranged into groups based on their length, complexity, and difficulty. You can choose papers from any group, but if you choose a "basic" paper, then you are expected to cover it in more detail. Then the correctness standard will also also higher. For the more complex papers ("medium" and "high" levels), you are not expected to summarize them in full technical detail.
+The articles below can be summarized as part of the project. They are arranged into groups based on their length, complexity, and difficulty. You can choose papers from any group, but if you choose a "basic" paper, then you are expected to cover it in more detail. Then the correctness standard will also also higher. For the more complex papers ("medium" and "high" levels), you are not expected to summarize them in full technical detail. We will reward effort and take into account the difficulty.
 
 ### Epidemiology and medicine
 
