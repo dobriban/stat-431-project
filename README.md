@@ -156,7 +156,7 @@ Big Data Analytics, New Technology, and Proactive Testing](https://jamanetwork.c
 * [Institute for Supply Management, March 2020 Manufacturing report](https://www.instituteforsupplymanagement.org/ISMReport/MfgROB.cfm?SSO=1). Documents decrease in manufacturing and production. 
 * Are crime rates declining? [Chicago tribune article](https://www.chicagotribune.com/coronavirus/ct-coronavirus-chicago-police-new-crime-stats-20200331-utnr2apdtbdzhagsehlzvq4lvi-story.html), [Philly police crime maps](https://www.phillypolice.com/crime-maps-stats/), [Weekly reports](https://drive.google.com/drive/folders/1eo4BIOGHcibOTcHRsGoEEiNrrCsuVOdH). Is there enough data to conclude that crime rates are declining? What kind of statistical methods may one use to argue about this?
 * Simulation and vizualization of exponential spread [Washington Post](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/)
-* NYTimes Opinion piece by Penn faculty EJ Emanuel, S Ellenberg, M Levy [The Coronavirus Is Here to Stay, So What Happens Next?](https://www.nytimes.com/2020/03/17/opinion/coronavirus-social-distancing-effect.html). "A likely scenario is that there will be subsequent waves of the disease." 
+* NYTimes Opinion piece by Penn faculty EJ Emanuel, S Ellenberg, M Levy, [The Coronavirus Is Here to Stay, So What Happens Next?](https://www.nytimes.com/2020/03/17/opinion/coronavirus-social-distancing-effect.html). "A likely scenario is that there will be subsequent waves of the disease." 
 
 
  
