@@ -79,6 +79,9 @@ The articles below can be summarized as part of the project. They are arranged i
 * Q. Li et al., [Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus–Infected Pneumonia
 , N Engl J Med 2020; 382:1199-1207](https://www.nejm.org/doi/full/10.1056/NEJMoa2001316). Similar and slightly larger later study.
 
+
+* NHL Yeung et al., [Respiratory virus shedding in exhaled breath and efficacy of face masks](https://www.nature.com/articles/s41591-020-0843-2), Nature Medicine 4/3/2020. Uses a direct two-sample testing approach to compare the mask-wearing and non-wearing groups. See [Table 1b](https://www.nature.com/articles/s41591-020-0843-2/tables/2): "P values for comparing the frequency of respiratory virus detection between the mask intervention were obtained by two-sided Fisher’s exact test". You can focus on this particular statistical aspect (i.e., two-sample test with Fisher's exact test). You can read more about Fisher's exact test [here on Wikipedia](https://en.wikipedia.org/wiki/Fisher%27s_exact_test).
+
 #### Medium to high level
 
 The difficulty level of the following papers varies a lot. Some use methods that we have not discussed in the class (eg "SIR models"). However, their conclusions are important, and so I include them for those that are most interested to delve into the depths.
