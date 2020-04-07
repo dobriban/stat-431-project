@@ -66,6 +66,9 @@ The materials below can serve as a helpful orientation into the extensive litera
 
 * Congressional Reasearch Service (CRS), 3/26/2020 [Global Economic Effects of COVID-19](https://crsreports.congress.gov/product/pdf/R/R46270). Well-researched summary of various thoughts on global economic effects. See also this presentation by [KPMG](https://www.kpmg.us/content/dam/kpmg/pdf/2020/covid-19-impact.pdf), which has a lot of charts.
 
+* L. Wynants et al [Systematic review and critical appraisal of prediction models for diagnosis and prognosis of COVID-19 infection
+](https://www.medrxiv.org/content/10.1101/2020.03.24.20041020v2). "COVID-19 related prediction models are quickly entering the academic literature, to support medical decision making at a time where this is urgently needed. Our review indicates proposed models are poorly reported and at high risk of bias."
+
 ### Scientific articles
 
 The articles below can be summarized as part of the project. They are arranged into groups based on their length, complexity, and difficulty. You can choose papers from any group, but if you choose a "basic" paper, then you are expected to cover it in more detail. Then the correctness standard will also also higher. For the more complex papers ("medium" and "high" levels), you are not expected to summarize them in full technical detail. We will reward effort and take into account the difficulty.
