@@ -25,12 +25,12 @@ This is the description of the final project for Stat 431, Spring 2020, at the U
 Other aspects: feel free to choose other aspects if you are interested. In that case, you should choose a paper to summarize and ask the instructor to approve it. Moreover, you are free to supplement your work by looking at other additional readings. Make sure to give proper credit for all ideas, facts etc, by citing the appropriate sources.
 
 ### Special notes
- * It will may be challenging to do summaries at the highest quality. However, remember that the goal of this project is an exercise of your critical understanding skills. It is about practicing your knowledge of statistics to wade through primary sources, to sort out fact from fiction about a critically important problem. 
+ * It may be challenging to do summaries at the highest quality. However, remember that the goal of this project is an exercise of your critical understanding skills. It is about practicing your knowledge of statistics to wade through primary sources, to sort out fact from fiction about a critically important problem. 
  * Instead of reading papers, some may wish to do their own data analysis & visualization to help understand Covid-19. There are several statistical analyses and visualizations that give valuable insights: [JHU cases map](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6), [Nextstrain phylogenetic tree](nextstrain.org), [covid-19 dashboards](https://covid19dashboards.com/). However, doing this in a quality fashion takes a lot of time & energy. So, while valuable, it is outside of the scope of this class.
 
 ## Instructions: 
 
-For each (and many more aspects) there is an extensive body of scientific work being done. You only need to read one paper, and to your best ability, summarize the statistical aspects. Here are a the questions you should answer. You can structure your paper as a response to these queries:
+For each (and many more aspects) there is an extensive body of scientific work being done. You only need to read one paper, and to your best ability, summarize the statistical aspects. Here are the questions you should answer. You can structure your paper as a response to these queries:
 
 1. What is the goal of the study?
 2. What type of data do they use? Is it observational, experimental? (refer to the sections where we studied this; if experimental, what kind of randomized study more specifically) What type of data does it measure (case medical characteristics, questionnaires)? Are there any possible biases in the data?
@@ -45,7 +45,7 @@ This work should take several days (say 3-4 days) to complete (including reading
 
 I anticipate that 3c may be challenging for many papers, because they may use advanced statistical methods that we have not covered in the class. I have a few comments and suggestions: first, the goal is not to understand in 100% detail the subtleties of the technique, but rather to appreciate how the methods are used. The goal is to understand the methods as well as you can, based on the training in the class, and based on your independent reading preparing for the project. You are expected to look up relevant methods that appear in the work, and spend some time understanding them. This will also be a valuable experience - no matter how many statistics classes you take, in your work in "the real world" you will always encounter new statistical methods. You need to be prepared to learn about them on the spot. Even more, as informed citizens of the future, it will serve you well to read beyond what is presented in a processed way in popular press.
 
-I also anticipate that some aspects may require you to do a bit indepenent reading. For instance, if you talk about estimating the basic reproduction number <img src="https://render.githubusercontent.com/render/math?math=R_0">
+I also anticipate that some aspects may require you to do a bit of indepenent reading. For instance, if you talk about estimating the basic reproduction number <img src="https://render.githubusercontent.com/render/math?math=R_0">
 , then you first need to understand what that is, and what models are used to estimate it. 
 
 For some of the papers, you will need to look at the supplementary material to understand what is being done. The main body of papers often just briefly describes the methods, and the details (which can be crucial) are often reported in supplementary materials.
@@ -71,7 +71,7 @@ The materials below can serve as a helpful orientation into the extensive litera
 
 ### Scientific articles
 
-The articles below can be summarized as part of the project. They are arranged into groups based on their length, complexity, and difficulty. You can choose papers from any group, but if you choose a "basic" paper, then you are expected to cover it in more detail. Then the correctness standard will also also higher. For the more complex papers ("medium" and "high" levels), you are not expected to summarize them in full technical detail. We will reward effort and take into account the difficulty.
+The articles below can be summarized as part of the project. They are arranged into groups based on their length, complexity, and difficulty. You can choose papers from any group, but if you choose a "basic" paper, then you are expected to cover it in more detail. Then the correctness standard will also be higher. For the more complex papers ("medium" and "high" levels), you are not expected to summarize them in full technical detail. We will reward effort and take into account the difficulty.
 
 ### Epidemiology and medicine
 
