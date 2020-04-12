@@ -92,6 +92,8 @@ The difficulty level of the following papers varies a lot. Some use methods that
 
 * Predictive model used to forecast death toll: [Institute for Health Metrics and Evaluation, UW](http://covid19.healthdata.org/projections), [Paper](https://www.medrxiv.org/content/10.1101/2020.03.27.20043752v1), [Code](https://github.com/ihmeuw-msca/CurveFit), [Methods pdf](https://github.com/dobriban/CurveFit/blob/master/docs/methods.pdf). This model has been referred to prominently in the White House address that extended the stay-at-home and social distancing guidelines to April (see below). It is based on a mixed-effects regression model, fit using maximum likelihood. This is a bit beyond what we covered, but with a few hours of reading you should be able to understand it. 
 
+* J. Grein, et al., [Compassionate Use of Remdesivir for Patients with Severe Covid-19, NEJM April 10, 2020](https://www.nejm.org/doi/full/10.1056/NEJMoa2007016), reports promising results using remdesivir
+
 * C. Wang et al., [Evolving Epidemiology and Impact of Non-pharmaceutical Interventions on the Outbreak of Coronavirus Disease 2019 in Wuhan, China](https://www.medrxiv.org/content/10.1101/2020.03.03.20030593v1). [Video](https://harvard.zoom.us/rec/play/v8Ytceqqqzs3GNzB4gSDB_59W9TsK6Ks13RI_6cLxB62BSUAOlumZeRAZLC7e1vif7xIyy6HL_uXyNHw?startTime=1584118874000) by prof. Xihong Lin from HSPH. Another, bigger, epidemiological study. Fits SEIR model to estimate R_0, see here for background: [Simple SIR model](https://www.idmod.org/docs/hiv/model-compartments.html), [More sophisticated SEIRS model](https://www.idmod.org/docs/hiv/model-seir.html). More readable, but perhaps less scientifically rigorous exposition: [link](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca). Quote from the last one, a particularly insightful and readable paragraph: 
 
 > How can you estimate the true ones? It turns out, there’s a couple of ways. [...]
@@ -148,6 +150,7 @@ Big Data Analytics, New Technology, and Proactive Testing](https://jamanetwork.c
     * [Imperial College, Mar 17 2020](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-NPI-modelling-16-03-2020.pdf)
     * Note on low quality models on the [Statistical Modeling blog](https://statmodeling.stat.columbia.edu/2020/03/31/and-the-band-played-on-low-quality-studies-being-published-on-covid19-prediction/)
     * Other discussion on modelling in [Science News](https://www.sciencemag.org/news/2020/03/mathematics-life-and-death-how-disease-models-shape-national-shutdowns-and-other)
+    * Dashboards at [UCLA ML](https://covid19.uclaml.org/index.html)
     * Coverage in NY Times, Mar 31 2020.
     > **Models predicting expected spread of the virus in the U.S. paint a grim picture.**
     > The coronavirus studies that appear to have convinced President Trump to prolong disruptive social distancing in the United States paint a grim picture of a pandemic that is likely to ravage the country over the next several months, killing close to 100,000 Americans and infecting millions more. 
