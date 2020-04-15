@@ -124,6 +124,7 @@ Big Data Analytics, New Technology, and Proactive Testing](https://jamanetwork.c
 
 * Economic Policy Institute, [3.5 million workers likely lost their employer-provided health insurance in the past two weeks](https://www.epi.org/blog/3-5-million-workers-likely-lost-their-employer-provided-health-insurance-in-the-past-two-weeks/). This is not an academic paper, but a post by a think tank. However, it is structured similarly to a paper. It studies the important problem of health insurance loss. It reports the full steps of the data analysis. It uses statistical methods like basic summary statisics (sample averages, percentages), and some visualization techniques. However, it does not address statistical inference questions like assessing uncertainty (which they could improve).
 
+
 #### Medium level
 
 * H Yilmazkuday, [Coronavirus Effects on the U.S. Unemployment: Evidence from Google Trends](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3559860). 3/23/2020. Uses a  structural vector autoregression (SVAR) model, with Bayesian inference, to estimate relation between Google search queries of "coronavirus", "unemployment", etc.
@@ -164,6 +165,7 @@ Big Data Analytics, New Technology, and Proactive Testing](https://jamanetwork.c
 * Are crime rates declining? [Chicago tribune article](https://www.chicagotribune.com/coronavirus/ct-coronavirus-chicago-police-new-crime-stats-20200331-utnr2apdtbdzhagsehlzvq4lvi-story.html), [Philly police crime maps](https://www.phillypolice.com/crime-maps-stats/), [Weekly reports](https://drive.google.com/drive/folders/1eo4BIOGHcibOTcHRsGoEEiNrrCsuVOdH). Is there enough data to conclude that crime rates are declining? What kind of statistical methods may one use to argue about this?
 * Simulation and vizualization of exponential spread [Washington Post](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/)
 * NYTimes Opinion piece by Penn faculty EJ Emanuel, S Ellenberg, M Levy, [The Coronavirus Is Here to Stay, So What Happens Next?](https://www.nytimes.com/2020/03/17/opinion/coronavirus-social-distancing-effect.html). "A likely scenario is that there will be subsequent waves of the disease." 
+* US Census [report on sales](https://www.census.gov/retail/marts/www/marts_current.pdf), showing the decline. Contains discussion of methodology, including stratified random sampling and confidence intervals.
 
 
  
