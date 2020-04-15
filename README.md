@@ -165,7 +165,7 @@ Big Data Analytics, New Technology, and Proactive Testing](https://jamanetwork.c
 * Are crime rates declining? [Chicago tribune article](https://www.chicagotribune.com/coronavirus/ct-coronavirus-chicago-police-new-crime-stats-20200331-utnr2apdtbdzhagsehlzvq4lvi-story.html), [Philly police crime maps](https://www.phillypolice.com/crime-maps-stats/), [Weekly reports](https://drive.google.com/drive/folders/1eo4BIOGHcibOTcHRsGoEEiNrrCsuVOdH). Is there enough data to conclude that crime rates are declining? What kind of statistical methods may one use to argue about this?
 * Simulation and vizualization of exponential spread [Washington Post](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/)
 * NYTimes Opinion piece by Penn faculty EJ Emanuel, S Ellenberg, M Levy, [The Coronavirus Is Here to Stay, So What Happens Next?](https://www.nytimes.com/2020/03/17/opinion/coronavirus-social-distancing-effect.html). "A likely scenario is that there will be subsequent waves of the disease." 
-* US Census [report on sales](https://www.census.gov/retail/marts/www/marts_current.pdf), showing the decline. Contains discussion of methodology, including stratified random sampling and confidence intervals.
+* US Census [report on sales](https://www.census.gov/retail/marts/www/marts_current.pdf), showing the decline. Contains discussion of methodology, including stratified random sampling and confidence intervals. See also the [raw data in an excel datafile](https://www.census.gov/retail/marts/www/marts_current.xls) on which this based. Note that the monthly variation can be much larger, eg clohting sales dropped by 50% from Mar 2019 to Mar 2020.
 
 
  
