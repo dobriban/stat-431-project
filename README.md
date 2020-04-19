@@ -129,6 +129,8 @@ Big Data Analytics, New Technology, and Proactive Testing](https://jamanetwork.c
 
 * H Yilmazkuday, [Coronavirus Effects on the U.S. Unemployment: Evidence from Google Trends](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3559860). 3/23/2020. Uses a  structural vector autoregression (SVAR) model, with Bayesian inference, to estimate relation between Google search queries of "coronavirus", "unemployment", etc.
 
+* Parolin & Wimer, Columbia U Center on Poverty and Social Policy, [FORECASTING ESTIMATES of POVERTY during the COVID-19 CRISIS](https://www.povertycenter.columbia.edu/news-internal/coronavirus-forecasting-poverty-estimates). "Poverty in the United States could reach highest levels in over 50 years"
+
 #### High level
 
 * W McKibbin, R Fernando, [The Global Macroeconomic Impacts of COVID-19: Seven Scenarios](https://www.brookings.edu/wp-content/uploads/2020/03/20200302_COVID19.pdf), Bookings Institution 3.2.2020. Detailed description of their Dynamic stochastic general equilibrium (DSGE) model can be found in the paper [W McKibbin & A Triggs](https://cama.crawford.anu.edu.au/sites/default/files/publication/cama_crawford_anu_edu_au/2018-04/17_2018_mckibbin_triggs_v1.pdf)
