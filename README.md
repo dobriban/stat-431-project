@@ -168,6 +168,7 @@ Big Data Analytics, New Technology, and Proactive Testing](https://jamanetwork.c
 * Simulation and vizualization of exponential spread [Washington Post](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/)
 * NYTimes Opinion piece by Penn faculty EJ Emanuel, S Ellenberg, M Levy, [The Coronavirus Is Here to Stay, So What Happens Next?](https://www.nytimes.com/2020/03/17/opinion/coronavirus-social-distancing-effect.html). "A likely scenario is that there will be subsequent waves of the disease." 
 * US Census [report on sales](https://www.census.gov/retail/marts/www/marts_current.pdf), showing the decline. Contains discussion of methodology, including stratified random sampling and confidence intervals. See also the [raw data in an excel datafile](https://www.census.gov/retail/marts/www/marts_current.xls) on which this based. Note that the monthly variation can be much larger, eg clohting sales dropped by 50% from Mar 2019 to Mar 2020.
+* NY Times [article](https://www.nytimes.com/2020/04/18/upshot/economic-data-distorted-coronavirus.html) on distorted data. Connects to the notions of sampling bias we had discussed.
 
 
  
