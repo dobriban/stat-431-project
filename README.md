@@ -85,6 +85,8 @@ The articles below can be summarized as part of the project. They are arranged i
 
 * NHL Yeung et al., [Respiratory virus shedding in exhaled breath and efficacy of face masks](https://www.nature.com/articles/s41591-020-0843-2), Nature Medicine 4/3/2020. Uses a direct two-sample testing approach to compare the mask-wearing and non-wearing groups. See [Table 1b](https://www.nature.com/articles/s41591-020-0843-2/tables/2): "P values for comparing the frequency of respiratory virus detection between the mask intervention were obtained by two-sided Fisher’s exact test". You can focus on this particular statistical aspect (i.e., two-sample test with Fisher's exact test). You can read more about Fisher's exact test [here on Wikipedia](https://en.wikipedia.org/wiki/Fisher%27s_exact_test).
 
+* K Mizumoto et al., [Estimating the asymptomatic proportion of coronavirus disease 2019 (COVID-19) cases on board the Diamond Princess cruise ship, Yokohama, Japan, 2020; Eurosurveillance Volume 25, Issue 10, 12/Mar/2020](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2020.25.10.2000180)
+
 #### Medium to high level
 
 The difficulty level of the following papers varies a lot. Some use methods that we have not discussed in the class (eg "SIR models"). However, their conclusions are important, and so I include them for those that are most interested to delve into the depths.
