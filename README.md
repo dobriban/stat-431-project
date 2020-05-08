@@ -120,6 +120,8 @@ Big Data Analytics, New Technology, and Proactive Testing](https://jamanetwork.c
 
 * S. Flaxman et al., [Estimating the number of infections and the impact of nonpharmaceutical interventions on COVID-19 in 11 European countries](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-Europe-estimates-and-NPI-impact-30-03-2020.pdf). Using a hierarchical Bayesian statistical model, estimates that a large number of deaths have been averted in Europe because of infection-control measures such as national lockdowns.
 
+* J. Wu et al., [Nowcasting and forecasting the potential domestic and international spread of the 2019-nCoV outbreak originating in Wuhan, China: a modelling study, The Lancet, VOLUME 395, ISSUE 10225, P689-697, FEBRUARY 29, 2020](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30260-9/fulltext)
+
 ### Economics, finance, social, etc
 
 #### Basic level
